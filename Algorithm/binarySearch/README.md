@@ -1,6 +1,6 @@
 ## BinarySearch
 
-- sored collection에만 효과
+- sorted collection에만 효과
 - Step
   1. 2 pointers(start, end)
   2. 2 pointers 사이 중간 값(middle) 찾기
