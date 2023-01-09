@@ -46,8 +46,12 @@
 
 ---
 
-### 그림 1
+<details>
+<summary> 그림 1 </summary>
 <img width="801" alt="image" src="https://user-images.githubusercontent.com/84627144/211328972-20872936-c34a-4f20-88f2-85482be2c81b.png">
+</details>
+
+--- 
 
 <details>
 <summary> 2. Design Overview </summary>
