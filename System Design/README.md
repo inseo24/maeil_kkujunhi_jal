@@ -14,3 +14,9 @@
 | Week 10 | Sharding & Replication | 1. DDIA - Chapter 5, use https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf as supplemental example </br> 2. DDIA - Chapter 6, https://medium.com/pinterest-engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f |
 | Week 11 | Distributed Queues | 1. https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf(https://kafka.apache.org/documentation/#design) </br> 2. Pub/sub: Amazon SQS, GCP </br> Pub/sub https://cloud.google.com/pubsub/architecture </br> https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dg.pdf |
 | Week 12 | Case Study #4 |  Message Queue https://www.educative.io/module/lesson/grokking-system-design-interview/qZ1v5v5n42p |
+
+
+### 추가 공부 사항
+
+- Raft Consensus (https://raft.github.io/raft.pdf) 
+- https://medium.com/curg/raft-consensus-이해-가능한-합의-알고리즘을-위한-여정-f7ecb9f450ab
